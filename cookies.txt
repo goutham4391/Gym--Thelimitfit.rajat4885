@@ -1,0 +1,9 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.thelimitfit.com	TRUE	/	FALSE	1999999999	fedops.logger.defaultOverrides	%7B%22paramsOverridesForApp%22%3A%7B%22music-manager-my-albums%22%3A%7B%22is_rollout%22%3Atrue%7D%7D%7D
+www.thelimitfit.com	TRUE	/	FALSE	1999999999	hs	-1435279322
+www.thelimitfit.com	TRUE	/	FALSE	1999999999	svSession	4786476f51d9e00cdcda723fd3129c014b786c397167bd9dc00cdc34402a68c4e1819c2ae7d60a140f176a19ecdf6b981e60994d53964e647acf431e4f798bcd53f2e87534c6aab11f378b7bfcc1c9d55002db67a25f38dbecefc1821ef1d5c9b48cb95c41f0204d5be398613ce9d922b2a45f433bcedf705aaab74c1b4e83ab1f3cc5bbe15def669b84d9f36bfe0966
+www.thelimitfit.com	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1667038209|FJLRv9eDG6Gq
+www.thelimitfit.com	TRUE	/	FALSE	1999999999	SameSite	None
+www.thelimitfit.com	TRUE	/	FALSE	1999999999	ssr-caching	cache#desc=miss#varnish=miss_miss#dc#desc=fastly
+

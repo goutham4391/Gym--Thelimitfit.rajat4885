@@ -1,0 +1,43 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 29 Oct 2022 15:39:02 at https://www.thelimitfit.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.thelimitfit.com/ -O1 "C:\Users\RAJAT SINGH\OneDrive\Desktop\Internship myknot\Day7\Web39\Site39" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:39:41	Error: 	"Not Found" (404) at link https://www.thelimitfit.com/decodeURIComponent(e (from https://www.thelimitfit.com/)
+15:39:41	Error: 	"Not Found" (404) at link https://www.thelimitfit.com/feed.xml (from https://www.thelimitfit.com/)
+15:39:41	Error: 	"Not Found" (404) at link https://www.thelimitfit.com/version/ (from https://www.thelimitfit.com/)
+15:39:41	Error: 	"Not Found" (404) at link https://www.thelimitfit.com/eec152dc.min.css (from https://www.thelimitfit.com/)
+15:39:41	Error: 	"Not Found" (404) at link https://www.thelimitfit.com/da6c52cb.min.css (from https://www.thelimitfit.com/)
+15:39:41	Error: 	"Not Found" (404) at link https://www.thelimitfit.com/b604fd33.min.css (from https://www.thelimitfit.com/)
+15:39:41	Error: 	"Not Found" (404) at link https://www.thelimitfit.com/7c602eb2.min.css (from https://www.thelimitfit.com/)
+15:39:41	Error: 	"Not Found" (404) at link https://www.thelimitfit.com/caeea34d.min.css (from https://www.thelimitfit.com/)
+15:39:41	Error: 	"Not Found" (404) at link https://www.thelimitfit.com/47b73115.min.css (from https://www.thelimitfit.com/)
+15:39:41	Error: 	"Not Found" (404) at link https://www.thelimitfit.com/99a6a99f.min.css (from https://www.thelimitfit.com/)
+15:39:41	Error: 	"Not Found" (404) at link https://www.thelimitfit.com/34b72cf9.min.css (from https://www.thelimitfit.com/)
+15:39:41	Error: 	"Not Found" (404) at link https://www.thelimitfit.com/7a36fe10.chunk.min.js (from https://www.thelimitfit.com/)
+15:39:41	Error: 	"Not Found" (404) at link https://www.thelimitfit.com/e3671379.chunk.min.js (from https://www.thelimitfit.com/)
+15:39:41	Error: 	"Not Found" (404) at link https://www.thelimitfit.com/rb_wixui.thunderbolt~bootstrap-classic.db545a77.chunk.min.js (from https://www.thelimitfit.com/)
+15:39:41	Error: 	"Not Found" (404) at link https://www.thelimitfit.com/rb_wixui.thunderbolt~bootstrap.8a86afda.chunk.min.css (from https://www.thelimitfit.com/)
+15:39:41	Error: 	"Not Found" (404) at link https://www.thelimitfit.com/rb_wixui.thunderbolt~bootstrap.7a36fe10.chunk.min.js (from https://www.thelimitfit.com/)
+15:39:41	Error: 	"Not Found" (404) at link https://www.thelimitfit.com/rb_wixui.thunderbolt~bootstrap-responsive.f3ca696f.chunk.min.css (from https://www.thelimitfit.com/)
+15:39:41	Error: 	"Not Found" (404) at link https://www.thelimitfit.com/rb_wixui.thunderbolt~bootstrap-responsive.e3671379.chunk.min.js (from https://www.thelimitfit.com/)
+15:39:41	Error: 	"Not Found" (404) at link https://www.thelimitfit.com/rb_wixui.thunderbolt~common-site-members-dialogs.384b0b57.chunk.min.css (from https://www.thelimitfit.com/)
+15:39:41	Error: 	"Not Found" (404) at link https://www.thelimitfit.com/rb_wixui.thunderbolt~common-site-members-dialogs.2059cbfd.chunk.min.js (from https://www.thelimitfit.com/)
+15:40:52	Error: 	"Not Found" (404) at link https://www.thelimitfit.com/37bd0eeb.min.css (from https://www.thelimitfit.com/gifts)
+15:42:30	Error: 	"Not Found" (404) at link https://www.thelimitfit.com/service-page/sitemap.xml (from https://www.thelimitfit.com/service-page/saturday-dance-party-zoom-1)
+15:42:30	Error: 	"Not Found" (404) at link https://www.thelimitfit.com/service-page/feed.xml (from https://www.thelimitfit.com/service-page/saturday-dance-party-zoom-1)
+15:43:27	Error: 	"Not Found" (404) at link https://www.thelimitfit.com/product-page/sitemap.xml (from https://www.thelimitfit.com/product-page/the-limit-special-edition-breast-cancer-awareness-sports-bra)
+15:43:27	Error: 	"Not Found" (404) at link https://www.thelimitfit.com/product-page/feed.xml (from https://www.thelimitfit.com/product-page/the-limit-special-edition-breast-cancer-awareness-sports-bra)
+15:44:20	Error: 	Exit requested by shell or user
+15:44:20	Error: 	"" (-1) at link https://www.thelimitfit.com/product-page/rb_wixui.thunderbolt~bootstrap-responsive.e3671379.chunk.min.js (from https://www.thelimitfit.com/product-page/the-limit-special-edition-breast-cancer-awareness-sports-bra)
+15:44:20	Error: 	Exit requested by shell or user
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 minutes 18 seconds : 212 links scanned, 181 files written (103644619 bytes overall) [23193221 bytes received at 72934 bytes/sec], 97543818 bytes transferred using HTTP compression in 130 files, ratio 17%, 2.0 requests per connection
+(28 errors, 0 warnings, 0 messages)
+* * MIRROR ABORTED! * *
+The current temporary cache is required for any update operation and only contains data downloaded during the present aborted session.
+The former cache might contain more complete information; if you do not want to lose that information, you have to restore it and delete the current cache.
+This can easily be done here by erasing the hts-cache/new.* files]
